@@ -9,7 +9,9 @@ So far I've only tested this on Debian/Ubuntu.
 ### Prerequisites
 
 There are only two needed external libraries:
+
 [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - Needed for the linear algebra support
+
 [Boost](http://www.boost.org/) - Needed for rational number support and several other things.
 
 
